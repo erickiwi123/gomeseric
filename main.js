@@ -16,4 +16,4 @@ function areatriangulo(base,altura,){
 console.log(areatriangulo(5,8))
 
 prompt('macaco?');
-document Write (macaco)
+document Write (macaco);
