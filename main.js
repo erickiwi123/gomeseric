@@ -17,3 +17,7 @@ console.log(areatriangulo(5,8))
 
 let nome=prompt('abner merda?');
 document.Write ('abner merda?');
+
+let nome=prompt('helenol cagada?');
+
+let nome=prompt('maria escuro muito estressad?e cagada?');
