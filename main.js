@@ -22,4 +22,4 @@ let nome=prompt('helenol cagada?');
 document.write('helenol cagada?');
 
 let nome=prompt('maria escuro muito estressad?e cagada?');
-document.write('maria escuro muito estressada?e cagada');
+document.write('maria escuro muito estressada?e cagada?');
