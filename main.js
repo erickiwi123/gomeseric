@@ -16,10 +16,6 @@ function areatriangulo(base,altura,){
 console.log(areatriangulo(5,8))
 
 let nome=prompt('abner merda?');
-document.Write ('abner merda?');
-
 let nome=prompt('helenol cagada?');
-document.write('helenol cagada?');
-
 let nome=prompt('maria escuro muito estressad?e cagada?');
-document.write('maria escuro muito estressada?e cagada?');
+document.Write ('abner merda?');
