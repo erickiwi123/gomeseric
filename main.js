@@ -19,7 +19,7 @@ let nome=prompt('abner merda?');
 document.Write ('abner merda?');
 
 let nome=prompt('helenol cagada?');
-document.write('pato');
+document.write('helenol cagada?');
 
 let nome=prompt('maria escuro muito estressad?e cagada?');
-document.write('uga uga');
+document.write('maria escuro muito estressada?e cagada');
