@@ -10,6 +10,6 @@ function areaQuadrado(lado){
 }
 console.log(areaQuadrado(3));
 let areatriangulo=function(2){
-    return areatriangulo
+    return areatriangulo;
 }
 console.log(areatriangulo9(2))
