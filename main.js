@@ -2,7 +2,7 @@ let estados = ['PR','RS','SC','SP','MT','RJ','MG','ES','AC','CE','GO','AM','AP',
 let i=0; 
 while (i<estados.length) {
     console.log(i);
-    console.log(estados[1]);
+    console.log(estados[i]);
     i=i+1;
 
 }
