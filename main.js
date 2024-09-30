@@ -1,9 +1,9 @@
-let estados=['PR','RS','SC','SP','MT','RJ','MG','ES','AC','CE','GO','AM','AP','AL','PA','RN','DF','BA','PE','TO','MS','RO','SE','RR','MA','PI','PB']
+let estados = ['PR','RS','SC','SP','MT','RJ','MG','ES','AC','CE','GO','AM','AP','AL','PA','RN','DF','BA','PE','TO','MS','RO','SE','RR','MA','PI','PB']
 let i=0; 
-while(i<estados.length){
+while (i<estados.length) {
     console.log(i);
-    console.log(estados[i]);
-    i=i+i;
+    console.log(estados[1]);
+    i=i+1;
 
 }
 
